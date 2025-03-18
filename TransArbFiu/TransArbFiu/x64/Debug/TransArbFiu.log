@@ -1,0 +1,6 @@
+﻿  codTrans.c
+C:\Users\Ana Maria\Desktop\Arbori\TransformariArbori\TransArbFiu\TransArbFiu\codTrans.c(156,25): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\Ana Maria\Desktop\Arbori\TransformariArbori\TransArbFiu\TransArbFiu\codTrans.c(156,16): warning C4312: 'type cast': conversion from 'int' to 'TNodeB *' of greater size
+C:\Users\Ana Maria\Desktop\Arbori\TransformariArbori\TransArbFiu\TransArbFiu\codTrans.c(160,3): warning C4013: 'exit' undefined; assuming extern returning int
+C:\Users\Ana Maria\Desktop\Arbori\TransformariArbori\TransArbFiu\TransArbFiu\codTrans.c(182,2): warning C4013: 'free' undefined; assuming extern returning int
+  TransArbFiu.vcxproj -> C:\Users\Ana Maria\Desktop\Arbori\TransformariArbori\TransArbFiu\x64\Debug\TransArbFiu.exe
