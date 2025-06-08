@@ -1,0 +1,29 @@
+12
+Ana F Timisoara
+Ion M Arad
+Maria F Cluj
+George M Oradea
+Elena F Arad
+Paul M Bucuresti
+Radu M Iasi
+Irina F Cluj
+Alex M Sibiu
+Diana F Arad
+Victor M Timisoara
+Lavinia F Cluj
+0 1
+0 2
+1 3
+3 4
+2 5
+5 6
+4 7
+7 6
+5 4
+8 3
+8 10
+10 9
+9 11
+11 2
+7 9
+6 10
